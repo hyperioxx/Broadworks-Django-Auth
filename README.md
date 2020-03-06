@@ -5,7 +5,7 @@ settings.py
 ```python
 INSTALLED_APPS = [
     ...
-    'broadworks_auth'
+    'broadworks_django_auth'
 ]
 
 ```
@@ -14,7 +14,7 @@ INSTALLED_APPS = [
 settings.py
 ```python
 AUTHENTICATION_BACKENDS = [
-    'broadworks_auth.backends.BraodworksAuthentication',
+    'broadworks_django_auth.backends.BraodworksAuthentication',
 ]
 ```
 
