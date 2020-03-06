@@ -1,5 +1,13 @@
 # Broadworks-Django-Auth 
 
+## Install
+
+```
+pip install Broadworks-Django-Authentication
+ 
+```
+
+
 ## Install the app
 settings.py
 ```python

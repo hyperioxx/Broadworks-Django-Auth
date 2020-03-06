@@ -18,7 +18,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=read('README.md'),
     classifiers=[
-        "Framework :: Django :: 2.1"
+        "Framework :: Django :: 2.1",
         "Development Status :: 3 - Alpha",
     ],
 )
