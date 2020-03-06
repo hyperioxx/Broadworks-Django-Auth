@@ -1,10 +1,15 @@
 # Broadworks-Django-Auth 
+[![PyPI pyversions](https://img.shields.io/pypi/status/Broadworks-Django-Authentication.svg)](https://pypi.org/project/Broadworks-Django-Authentication/)
+[![PyPI version shields.io](https://img.shields.io/pypi/v/Broadworks-Django-Authentication.svg)](https://pypi.python.org/pypi/Broadworks-Django-Authentication/)
+[![PyPI license](https://img.shields.io/pypi/l/Broadworks-Django-Authentication.svg)](https://pypi.python.org/pypi/Broadworks-Django-Authentication/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/Broadworks-Django-Authentication.svg)](https://pypi.python.org/pypi/Broadworks-Django-Authentication/)
+#  Broadworks OCI-P (Open Client Interface Provisioning) Client
 
 ## Install
 
 ```
 pip install Broadworks-Django-Authentication
- 
+
 ```
 
 
